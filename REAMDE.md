@@ -1,2 +1,2 @@
 # PÁGINA WEB PARA UMA FLORICUTURA
-Tentar fazer uma amostra
+Tentar fazer uma página.
