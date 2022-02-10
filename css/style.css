@@ -1,0 +1,16 @@
+body{
+    margin: 0%;
+}
+header {
+    background: url(/css/imagens/Begônia.jpeg);
+}
+#container{
+    color: rgb(243, 243, 248);
+    width: max-content 100vw; /*toda largura da tela*/
+    height: 100vh;/*toda altura da tela*/
+    padding: 20px;
+    display: flex;
+    align-items: baseline;
+    justify-content:space-between;
+    margin-right: 10px;   
+}
